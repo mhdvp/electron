@@ -170,3 +170,4 @@ cherry-pick-d513cd2fe668.patch
 cherry-pick-bb8d4c29dfdb.patch
 cherry-pick-847b11ad2fa3.patch
 cherry-pick-eeb3e031eb89.patch
+fix-dcheck-failure-when-starting-heap-profiler-for-renderer.patch
